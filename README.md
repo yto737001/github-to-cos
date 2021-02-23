@@ -2,6 +2,7 @@
 
 使用方法:
 
+
 ### 一、腾讯云配置桶
 
 * 1、腾讯云创建COS存储桶, 访问权限选择: 公有读私有写。例如区域广州(REGION): ap-guangzhou, 桶名(BUCKET): jd-xxxxxx。
